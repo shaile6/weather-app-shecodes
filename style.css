@@ -1,5 +1,6 @@
 body {
   font-family: arial, sans-serif;
+  display: block;
 }
 
 h1 {
@@ -57,4 +58,9 @@ li {
 #current {
   background: green;
   border: solid green;
+}
+
+.link {
+  text-align: center;
+  display: block;
 }
